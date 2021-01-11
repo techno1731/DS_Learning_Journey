@@ -1,0 +1,3 @@
+[submodule "00_BTS_UB_Big_Data_Solutions/30_Classical_Data_Analysis/bts-cda-2020"]
+	path = 00_BTS_UB_Big_Data_Solutions/30_Classical_Data_Analysis/bts-cda-2020
+	url = https://github.com/vfp1/bts-cda-2020.git

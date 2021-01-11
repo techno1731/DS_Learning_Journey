@@ -1,0 +1,5 @@
+{
+    "UserId": {"S": "BTS-007"}, 
+    "GameTitle": {"S": "Fortnite"} , 
+    "TopScore": {"N": "Victory_Royale"} 
+}
